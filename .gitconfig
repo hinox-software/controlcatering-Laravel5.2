@@ -1,0 +1,8 @@
+[user]
+	name = Hinox Software
+	email = jhinojosa@hinox-sofware.com
+[color]
+	status = auto
+	branch = auto
+	diff = auto
+	interactive = auto
