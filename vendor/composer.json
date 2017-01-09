@@ -1,0 +1,5 @@
+{
+    "require": {
+        "acacha/admin-lte-template-laravel": "2.*"
+    }
+}
